@@ -32,7 +32,7 @@ The project is divided into two reporting periods. This README documents progres
   - Starting Grid vs Points
   - Position Improvement vs Points
 
-### 🧠 Prompt Testing (LLM)
+### Prompt Testing (LLM)
 - Used basic prompts to test the model’s ability to reason about sprint race data. 
 
 Results were compared to Python outputs and documented.
