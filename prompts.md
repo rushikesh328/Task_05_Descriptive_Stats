@@ -12,7 +12,7 @@ Validation Method: Summed all sprint points grouped by driver and sorted to find
 ---
 
 ### Prompt: Which team earned the most sprint points?
-Answer: Red Bull Racing Honda RBPT  
+Answer: McLaren Mercedes  
 Model Accuracy: Correct  
 Validation Method: Aggregated points per team and identified the team with the highest total.
 
@@ -26,7 +26,7 @@ Validation Method: Calculated the mean finishing position for each driver and id
 ---
 
 ### Prompt: Which team was the most consistent in sprint races?
-Answer: Team with the lowest variation in finishing positions (e.g., Red Bull)  
+Answer: Team with the lowest variation in finishing positions
 Model Accuracy: Mostly correct  
 Validation Method: Calculated standard deviation of finishing positions per team to assess consistency.
 
