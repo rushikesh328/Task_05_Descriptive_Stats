@@ -35,7 +35,8 @@ Validation Method: Calculated standard deviation of finishing positions per team
 ### Prompt: Did starting grid position strongly impact final results?
 Answer: Yes, positive correlation found  
 Model Accuracy: Correct if LLM mentions correlation strength  
-Validation Method: Measured correlation between starting grid position and final finishing position.
+Validation Method: Measured correlation between starting grid position and final finishing position
+
 ---
 
 ### Prompt: Is there a correlation between improvement and sprint points?
