@@ -57,4 +57,23 @@ Validation Method: Measured correlation between starting grid position and sprin
 Answer: Generally yes  
 Model Accuracy: Acceptable if model links improvement with scoring  
 Validation Method: Analyzed the correlation and visual relationship between position improvement and points scored.
+---
+### Prompt: Who is the most efficient driver in converting grid to points?
+Answer: Driver with highest points earned relative to grid positions
+Model Accuracy: Correct
+Validation Method: Computed efficiency as points earned divided by starting grid position and compared across drivers.
+
+---
+
+### Prompt: Which team performs best under pressure (starting outside Top 10)?
+Answer: Team with best average positions and points when starting outside Top 10
+Model Accuracy: Correct
+Validation Method: Filtered cases where drivers started outside Top 10 and measured average team performance.
+
+---
+
+### Prompt: Which teams consistently performed better at certain tracks compared to others?
+Answer: Certain teams showed stronger performance on specific tracks (e.g., Red Bull on high-speed circuits)
+Model Accuracy: Correct
+Validation Method: Compared average finishing positions of teams across different tracks to identify track-specific strengths.
 """
